@@ -56,7 +56,7 @@ We offer the **best support** you will ever experience
 **Join us!**
 
 Website: https://www.cniper.xyz<br />
-Discord: https://discord.gg/UxDgyG6PbZ<br />
+Discord: https://discord.gg/3VmemzSJjd<br />
 Telegram: https://t.me/thecniperbot<br />
 
 **Video demo**
