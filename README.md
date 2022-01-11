@@ -3,7 +3,7 @@ A mempool sniper bot with lots of features for Binance Smart Chain (BSC), Ethere
 
 # Sniper bot for multiple decentralized exchanges (DEX)
 
-![Cniper bot interface](https://www.cniper.xyz/wp-content/uploads/2021/11/Screenshot_107.png "sniper bot interface")
+![Cniper bot interface](https://www.cniper.xyz/wp-content/uploads/2022/01/Cniper-GUI-v1.4.5.png "sniper bot interface")
 
 * Pancakeswap (Binance Smart Chain (BSC))
 * Uniswap (Ethereum (ETH))
