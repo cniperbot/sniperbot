@@ -1,5 +1,5 @@
 # sniperbot
-A mempool (frontrun) sniper bot with lots of features for Binance Smart Chain (BSC), Ethereum (ETH), Avalanche (AVAX), Polygon (MATIC), Fantom (FTM) and Pinksale
+A mempool (frontrun) sniper bot with lots of features for Binance Smart Chain (BSC), Ethereum (ETH), Avalanche (AVAX), Polygon (MATIC), Fantom (FTM), Moonforce and Pinksale
 
 # Sniper bot for multiple decentralized exchanges (DEX)
 
