@@ -46,7 +46,7 @@ A **telegram scanner** to automatically get a fairlaunch token contract and imme
 * Configurable block delay before buying
 * Configurable seconds delay before buying
 
-Including a presale sniper bot for the fastest snipes on Pinksale presales.
+Including a presale sniper bot for the fastest snipes on Moonforce and Pinksale presales.
 
 We offer the **best support** you will ever experience
 * Updates (We respond fast, after a bug is reported)
