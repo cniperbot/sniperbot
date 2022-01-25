@@ -6,6 +6,7 @@ A mempool (frontrun) sniper bot with lots of features for Binance Smart Chain (B
 ![Cniper bot interface](https://www.cniper.xyz/wp-content/uploads/2022/01/Cniper-GUI-v1.4.5.png "sniper bot interface")
 
 * Pancakeswap (Binance Smart Chain (BSC))
+* PYEswap (Binance Smart Chain (BSC))
 * Uniswap (Ethereum (ETH))
 * Sushiswap (Polygon (MATIC))
 * Quickswap (Polygon (MATIC))
@@ -31,6 +32,7 @@ A mempool (frontrun) sniper bot with lots of features for Binance Smart Chain (B
 * MATIC
 * AVAX
 * FTM
+* PYE
 * .. more on request!
 
 A **telegram scanner** to automatically get a fairlaunch token contract and immediately buy
