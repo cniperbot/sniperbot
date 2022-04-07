@@ -1,5 +1,5 @@
 # sniperbot
-A mempool (frontrun) sniper bot with lots of features for Binance Smart Chain (BSC), Ethereum (ETH), Avalanche (AVAX), Polygon (MATIC), Fantom (FTM), Moonforce and Pinksale
+A mempool (frontrun) sniper bot with lots of features for Binance Smart Chain (BSC), Ethereum (ETH), Avalanche (AVAX), Polygon (MATIC), Fantom (FTM), Cronos (CRO), Harmony (ONE), Milkomeda (MilkADA), Moonforce and Pinksale
 
 # Sniper bot for multiple decentralized exchanges (DEX)
 
@@ -13,6 +13,10 @@ A mempool (frontrun) sniper bot with lots of features for Binance Smart Chain (B
 * Trader Joe (Avalanche (AVAX))
 * Pangolin (Avalanche (AVAX))
 * Spookyswap (Fantom(FTM))
+* Mad Meerkat (Cronos(CRO))
+* Sushiswap (Harmony(ONE))
+* Foxswap (Harony(ONE))
+* Milkyswap (Milkomeda (MilkADA))
 
 **Including a mempool sniper for the fastest snipes that can deal with the following signals:**
 
@@ -33,6 +37,9 @@ A mempool (frontrun) sniper bot with lots of features for Binance Smart Chain (B
 * AVAX
 * FTM
 * PYE
+* ONE
+* MilkADA
+* CRO
 * .. more on request!
 
 A **telegram scanner** to automatically get a fairlaunch token contract and immediately buy
