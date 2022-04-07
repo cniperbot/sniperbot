@@ -16,7 +16,7 @@ A mempool (frontrun) sniper bot with lots of features for Binance Smart Chain (B
 * Mad Meerkat (Cronos(CRO))
 * Sushiswap (Harmony(ONE))
 * Foxswap (Harony(ONE))
-* Milkyswap (Milkomeda (MilkADA))
+* Milkyswap (Milkomeda(MilkADA))
 
 **Including a mempool sniper for the fastest snipes that can deal with the following signals:**
 
