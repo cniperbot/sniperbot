@@ -1,6 +1,8 @@
 # sniperbot
 A mempool (frontrun) sniper bot with lots of features for Binance Smart Chain (BSC), Ethereum (ETH), Avalanche (AVAX), Polygon (MATIC), Fantom (FTM), Cronos (CRO), Harmony (ONE), Milkomeda (MilkADA), Moonforce and Pinksale
 
+Documentation: https://docs.cniper.xyz.
+
 # Sniper bot for multiple decentralized exchanges (DEX)
 
 ![Cniper bot interface](https://www.cniper.xyz/wp-content/uploads/2022/01/Cniper-GUI-v1.4.5.png "sniper bot interface")
@@ -67,6 +69,10 @@ We offer the **best support** you will ever experience
 Website: https://www.cniper.xyz<br />
 Discord: https://discord.gg/3VmemzSJjd<br />
 Telegram: https://t.me/thecniperbot<br />
+
+**Frequently asked questions and documentation**
+
+We have extended documentation on our software located at https://docs.cniper.xyz. This helps everyone understand every piece of the bot.
 
 **Video demo**
 [![Cniper video demo](https://user-images.githubusercontent.com/96018038/145722500-53f18bf4-ba4d-4525-96ea-6c21c2984105.png)](https://www.youtube.com/watch?v=wVBoqnkCXyk)
