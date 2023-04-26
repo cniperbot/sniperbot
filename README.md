@@ -49,6 +49,7 @@ Documentation: <a href=" https://docs.cniper.xyz" target="_blank">https://docs.c
 * .. more on request!
 
 A **telegram scanner** to automatically get a fairlaunch token contract and immediately buy
+* The telegram scanner can parse complex strings like: zerox31fb6[four]3235-835(five,zero)558(123+234)f6d 8f809(40*2)cfeadd5bbf
 
 [![Cniper telegram scanner](https://www.cniper.xyz/wp-content/uploads/2023/04/telegram-scanner-screenshot.png)](https://www.cniper.xyz/wp-content/uploads/2023/04/telegram-scanner-parsing.gif)
 
