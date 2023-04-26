@@ -45,6 +45,7 @@ Documentation: <a href=" https://docs.cniper.xyz" target="_blank">https://docs.c
 * .. more on request!
 
 A **telegram scanner** to automatically get a fairlaunch token contract and immediately buy
+
 ![Cniper telegram scanner](https://www.cniper.xyz/wp-content/uploads/2023/04/telegram-scanner-parsing.gif "telegram scanner")
 
 **Automatic sell** based on a user **configured profit target** (2x, 10x, …)
