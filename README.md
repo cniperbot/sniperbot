@@ -45,15 +45,21 @@ Documentation: <a href=" https://docs.cniper.xyz" target="_blank">https://docs.c
 * .. more on request!
 
 A **telegram scanner** to automatically get a fairlaunch token contract and immediately buy
+![Cniper telegram scanner](https://www.cniper.xyz/wp-content/uploads/2023/04/telegram-scanner-parsing.gif "telegram scanner")
 
 **Automatic sell** based on a user **configured profit target** (2x, 10x, …)
 
-**Automatically take profit** and** stop loss**
+**Automatically take profit** and **stop loss**
 
 **Counter anti-bot features**
 
 * Configurable block delay before buying
 * Configurable seconds delay before buying
+
+**Advanced honey pot protection**
+* Protects from honey pot scams
+* Protects from extremely high buy and sell taxes
+* Extremely fast check, not noticable when sniping
 
 Including a presale sniper bot for the fastest snipes on Moonforce and Pinksale presales.
 
