@@ -10,6 +10,9 @@ Documentation: <a href=" https://docs.cniper.xyz" target="_blank">https://docs.c
 * Pancakeswap (Binance Smart Chain (BSC))
 * PYEswap (Binance Smart Chain (BSC))
 * Uniswap (Ethereum (ETH))
+* Sushiswap (Arbitrum (ARB))
+* Camelot (Arbitrum (ARB))
+* Uniswap (Arbitrum (ARB))
 * Sushiswap (Polygon (MATIC))
 * Quickswap (Polygon (MATIC))
 * Trader Joe (Avalanche (AVAX))
@@ -22,8 +25,8 @@ Documentation: <a href=" https://docs.cniper.xyz" target="_blank">https://docs.c
 
 **Including a mempool sniper for the fastest snipes that can deal with the following signals:**
 
-* **DXsale** finalizing signal (launch)
 * **Pinksale** finalizing signal (launch)
+* **DXsale** finalizing signal (launch)
 * **Liquidity** added
 * **Trading** enabled/disabled
 
@@ -42,6 +45,7 @@ Documentation: <a href=" https://docs.cniper.xyz" target="_blank">https://docs.c
 * ONE
 * MilkADA
 * CRO
+* ARB
 * .. more on request!
 
 A **telegram scanner** to automatically get a fairlaunch token contract and immediately buy
