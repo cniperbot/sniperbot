@@ -5,7 +5,7 @@ Documentation: <a href=" https://docs.cniper.xyz" target="_blank">https://docs.c
 
 # Sniper bot for multiple decentralized exchanges (DEX)
 
-![Cniper bot interface](https://www.cniper.xyz/wp-content/uploads/2022/01/Cniper-GUI-v1.4.5.png "sniper bot interface")
+![Cniper bot interface](https://www.cniper.xyz/wp-content/uploads/2023/05/cniper-v1.9.png "sniper bot interface")
 
 * Pancakeswap (Binance Smart Chain (BSC))
 * PYEswap (Binance Smart Chain (BSC))
