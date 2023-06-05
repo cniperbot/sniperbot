@@ -1,5 +1,5 @@
 # sniperbot
-A mempool (frontrun) sniper bot with lots of features for Arbitrum (ARB), Binance Smart Chain (BSC), Ethereum (ETH), Avalanche (AVAX), Polygon (MATIC), Fantom (FTM), Cronos (CRO), Harmony (ONE), Milkomeda (MilkADA), Moonforce and Pinksale
+A mempool (frontrun) sniper bot with lots of features for Arbitrum (ARB), Binance Smart Chain (BSC), Ethereum (ETH), Avalanche (AVAX), Polygon (MATIC), Fantom (FTM), Cronos (CRO), Harmony (ONE), Milkomeda (MilkADA), Moonforce and Pinksale.
 
 Documentation: <a href=" https://docs.cniper.xyz" target="_blank">https://docs.cniper.xyz</a>.
 
@@ -88,4 +88,7 @@ We have extended documentation on our software located at <a href=" https://docs
 
 **Video demo**
 [![Cniper video demo](https://user-images.githubusercontent.com/96018038/145722500-53f18bf4-ba4d-4525-96ea-6c21c2984105.png)](https://www.youtube.com/watch?v=wVBoqnkCXyk)
+
+**Check out our Cardano sniper bot**
+- https://github.com/cniperbot/cardano-token-sniper
 
