@@ -4,7 +4,7 @@ A mempool (frontrun) sniper bot with lots of features for Arbitrum (ARB), Binanc
 **Join us!**
 
 Website: https://www.cniper.xyz<br />
-Discord: https://discord.gg/H7HUy7S4s3<br />
+Discord: https://discord.gg/6BD7U53bXf<br />
 Telegram: https://t.me/thecniperbot<br />
 
 Documentation: <a href=" https://docs.cniper.xyz" target="_blank">https://docs.cniper.xyz</a>.
